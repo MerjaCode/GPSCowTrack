@@ -3,6 +3,8 @@ Goal is to acquire GPS data from rover, cow, UAV, etc display in RT at "home"
 
 Goal is to acquire GPS data from rover, cow, UAV, etc display in RT at "home" via either nRF24L01 (initial effort), LoRa, WiFi, other 
 This website very valuable... https://www.hackster.io/t3chflicks/smart-buoy-summary-7d1a7b
+https://github.com/sk-t3ch/smart-buoy
+
 Currently, 
 GPS_TAB Serial prints LAT, LONG, DATE, ZuluTime.  Capture data via Putty
 nrf_muhammad-aqib_Tx and Rx work to send "High" Low" text based on a pin voltage
